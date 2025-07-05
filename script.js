@@ -171,7 +171,7 @@ function updateSocialLinks() {
         },
         
         linkedin: {
-            url: 'https://www.linkedin.com/in/khushi-sharma-621013285/', // Replace with your LinkedIn
+            url: 'https://www.linkedin.com/in/khushi-sharma-bb4409373/', // Replace with your LinkedIn
             username: 'My LinkedIn',
             description: 'Connect with me professionally'
         },
